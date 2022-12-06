@@ -1,0 +1,25 @@
+{
+  "name": "xcisetrackr-v2",
+  "version": "1.0.0",
+  "description": "track your exercise based on location",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "location",
+    "based",
+    "exercise",
+    "tracker"
+  ],
+  "author": "SammyLeths",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
