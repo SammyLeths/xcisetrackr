@@ -51,17 +51,18 @@ a:visited {
   display: flex;
   flex-direction: column;
 
+  @media (max-width: 992px) {
+    order: 2;
+    flex-basis: 0;
+    height: 45%;
+  }
+
   @media (max-width: 680px) {
     padding: 3rem 3rem 3rem 3rem;
   }
 
   @media (min-width: 992px) {
     flex-basis: 45rem;
-  }
-
-  @media (max-width: 992px) {
-    order: 2;
-    height: 50%;
   }
 
   @media (min-width: 1300px) {
@@ -77,7 +78,6 @@ a:visited {
 
 .workouts {
   list-style: none;
-  height: 77vh;
   overflow-y: scroll;
   overflow-x: hidden;
   margin-bottom: 2rem;
