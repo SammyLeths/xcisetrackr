@@ -78,16 +78,17 @@ a:visited {
   align-self: center;
   margin-bottom: 4rem;
 }
+@media (max-width: 992px) {
+  .logo {
+    margin-bottom: 2rem;
+  }
+}
 
 .workouts {
   list-style: none;
   overflow-y: scroll;
   overflow-x: hidden;
   margin-bottom: 2rem;
-}
-
-.workouts::-webkit-scrollbar {
-  width: 0;
 }
 
 .workout {
