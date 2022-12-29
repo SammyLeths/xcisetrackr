@@ -26,6 +26,7 @@ This web application features an interactive map from the Leaflet library which 
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT" />
 </p>
