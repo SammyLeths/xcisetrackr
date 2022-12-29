@@ -4,7 +4,7 @@
   "description": "track your exercise based on location",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "sass --watch scss:assets/css"
+    "compile:sass": "sass --watch src/scss:src/assets/css"
   },
   "keywords": [
     "location",
