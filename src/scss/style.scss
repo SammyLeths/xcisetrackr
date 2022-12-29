@@ -87,6 +87,15 @@ a:visited {
   margin-bottom: 2rem;
 }
 
+.workouts::-webkit-scrollbar {
+  width: 3px;
+  background: var(--color-dark--1);
+}
+
+.workouts::-webkit-scrollbar-thumb {
+  background: var(--color-light--1);
+}
+
 .workout {
   background-color: var(--color-dark--2);
   padding: 1.5rem 2.25rem;
