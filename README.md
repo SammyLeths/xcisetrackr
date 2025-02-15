@@ -72,4 +72,5 @@ This web application features an interactive map from the Leaflet library which 
   <li>Portfolio - <a href="https://sammyleths.com" target="_blank">@SammyLeths</a></li>
   <li>Linkedin - <a href="https://www.linkedin.com/in/eyiowuawi/" target="_blank">@SammyLeths</a></li>
   <li>Twitter - <a href="https://twitter.com/SammyLeths" target="_blank">@SammyLeths</a></li>
+  <li>Buy me a Coffee - <a href="https://buymeacoffee.com/sammyleths" target="_blank">@SammyLeths</a></li>
 </ul>
